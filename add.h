@@ -18,6 +18,6 @@ int add(int num1, int num2);
 // if it wasn't then it would run the code until the #endif
 
 // what it does when it runs the code is that it defines 
-// ADD_H with #difine ADD_H so that when you call the header
+// ADD_H with #define ADD_H so that when you call the header
 // file again #ifndef ADD_H would see that ADD_H is
 // defined and would comment out the code until the #endif statement
