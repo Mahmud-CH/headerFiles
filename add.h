@@ -17,7 +17,7 @@ int add(int num1, int num2);
 // #ifndef ADD_H checks if ADD_H was defined before
 // if it wasn't then it would run the code until the #endif
 
-// what it does when it runes the code is that it defines 
+// what it does when it runs the code is that it defines 
 // ADD_H with #difine ADD_H so that when you call the header
 // file again #ifndef ADD_H would see that ADD_H is
 // defined and would comment out the code until the #endif statement
